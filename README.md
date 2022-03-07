@@ -1,9 +1,9 @@
 # Butterfly_Addiction_Scripts
 unityroomに投稿した「Butterfly Addiction」のscriptsです。
 
-WebGLとの相性が悪く、unityroom上で上手く作動しなかったため、こちらにアップしておきます。
-容量の都合上、全てのデータをpushすることはできなかったので、実際の開発でのソースコードのみを上げさせていただきます。
-ご不便をおかけして申し訳ありません。
+WebGLとの相性が悪く、unityroom上で上手く作動しなかったため、こちらにアップしておきます。<br>
+容量の都合上、全てのデータをpushすることはできなかったので、実際の開発でのソースコードのみを上げさせていただきます。<br>
+ご不便をおかけして申し訳ありません。<br>
 
 実際のゲームの操作方法については、以下のページに記載しています。
 https://unityroom.com/games/butterfly_addiction
